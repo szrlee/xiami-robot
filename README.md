@@ -6,7 +6,7 @@ xiami-robot
 Usage
 ===========
 
-python2 xiami.py
+**python2 xiami.py**
 
 你可以在终端输入你想听的音乐名称，音乐会被自动下载到当前文件夹。
 
